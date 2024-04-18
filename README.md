@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VaidikLimbachiya
-- 👀 I’m interested in Software Testing,Web Development
-- 🌱 I’m currently learning MCA
+- 👀 I’m interested in Cyber Security,Web Development
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me vadikl5726@gmail.com
-- ⚡ Fun fact: Learning Prompt Engineering
+- ⚡ Fun fact: Learning Java Script
 - 🧐 LinkedIn https://www.linkedin.com/in/vaidik-limbachiya
 
 <!---
