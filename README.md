@@ -1,30 +1,16 @@
-- 👋 Hi, I’m @VaidikLimbachiya
-- 👀 I’m interested in Cyber Security,Web Development
-- 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me vadikl5726@gmail.com
-- ⚡ Fun fact: Learning Java Script
-- 🧐 LinkedIn https://www.linkedin.com/in/vaidik-limbachiya
+<h1 align="center">Hi 👋, I'm Vaidik Limbachiya</h1> <h3 align="center">A Passionate Full Stack Developer from India 🌟</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaidiklimbachiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<h1 align="center">Hi 👋, I'm Vaidik Limbachiya</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+👨‍💻 About Me:
+🔭 I’m currently working on MERN Stack Projects
+🌱 I’m currently learning React.js and Next.js
+👀 Interested in Cyber Security & Web Development
+📫 Reach me at vadikl5726@gmail.com
+⚡ Fun fact: Always excited to learn something new!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drsnvs&label=Profile%20views&color=0e75b6&style=flat" alt="drsnvs" /> </p>
+<h3 align="center">🌐 Connect with Me:</h3> <p align="center"> <a href="https://www.linkedin.com/in/vaidik-limbachiya" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn"/> </a> <a href="mailto:vadikl5726@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/> </a> </p>
 
-- 🔭 I’m currently working on **Mern Stack Projects**
+<h3 align="center">🛠️ Languages & Tools:</h3> <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> </p>
 
-- 🌱 I’m currently learning **React**
+<h3 align="center">📊 GitHub Stats:</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidiklimbachiya&theme=radical" alt="GitHub Streak Stats" /> </p>
 
-- 📫 How to reach me **vadikl5726@gmail.com**
-
-- ⚡ Fun fact **I'm learning next.js**
-
-- 🧐 LinkedIn **https://www.linkedin.com/in/vaidik-limbachiya**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vaidik-limbachiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VaidikLimbachiya" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit&" alt="smit" /></p>
+<h3 align="center">✨ Fun Fact:</h3> <p align="center"> <em>"The only limit to our realization of tomorrow is our doubts of today."</em> </p>
