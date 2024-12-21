@@ -1,7 +1,7 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FFAF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaidik+Limbachiya!;A+Passionate+Full+Stack+Developer;Exploring+the+World+of+Cyber+Security;Learning+Something+New+Everyday+%F0%9F%92%AA" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FFAF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaidik+Limbachiya!;A+Passionate+Full+Stack+Developer;Learning+Something+New+Everyday+%F0%9F%92%AA" alt="Typing SVG" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=vaidiklimbachiya&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" /> <a href="https://github.com/VaidikLimbachiya?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/vaidiklimbachiya?label=Followers&style=social" alt="GitHub Followers" /> </a> </div>
-📝 About Me
-🔭 Currently Working On: MERN Stack Projects
+📝 About Me</br>
+🔭 Currently Working On: MERN Stack Projects</br>
 🌱 Learning: React.js and Next.js
 👀 Interested In: Cyber Security, Web Development
 📫 Reach Me At: vadikl5726@gmail.com
