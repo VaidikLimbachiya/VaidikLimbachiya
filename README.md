@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FFAF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaidik+Limbachiya!;A+Passionate+Full+Stack+Developer;Exploring+Cyber+Security+and+Web+Development;Learning+New+Tech+Everyday!+%F0%9F%92%AA" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FFAF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaidik+Limbachiya!;A+Passionate+Full+Stack+Developer;Learning+New+Tech+Everyday!+%F0%9F%92%AA" alt="Typing SVG" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=vaidiklimbachiya&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" /> <a href="https://github.com/VaidikLimbachiya?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/vaidiklimbachiya?label=Followers&style=social" alt="GitHub Followers" /> </a> </div>
 📝 About Me</br>
 🔭 Currently Working On -> MERN Stack Projects</br>
